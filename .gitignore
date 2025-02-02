@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+large_data.hdf5
+large1.csv
+large2.csv
