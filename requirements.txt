@@ -1,3 +1,6 @@
 pyspark
 ipykernel
 pandas
+dask
+pyarrow
+datatable
